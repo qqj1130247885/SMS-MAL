@@ -7,7 +7,7 @@ The following is a brief introduction about the 7 categories and their correspon
 
 ## Message stealer
 
-This category of malware can steal victim’s messages by secretly sending them from the infected device to a remote server.![enter image description here](/image/MISCLICK.pdf)
+This category of malware can steal victim’s messages by secretly sending them from the infected device to a remote server.![](/image/MISCLICK.pdf)
 
 
 ## Misclick to pay
