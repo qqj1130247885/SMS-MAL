@@ -1,8 +1,7 @@
 # SMS-MAL
 These data are related to paper"An Empirical Study on Malicious SMS-Based Apps".
 
-In this work, we summarize 7 fine-grain categories for SMS-based malware and the general attack chain for each category with the in-depth understanding on the characteristics
-of malicious behaviors. To contribute to relevant research topics, such as AI-based interpretable malicious behavior classification, we release 56 malware samples as a benchmark. We hope they can be used as a fundamental dataset in future SMS-based malware research.
+In this work, we summarize 7 fine-grain categories for SMS-based malware and the general attack chain for each category. To contribute to relevant research topics, such as AI-based interpretable malicious behavior classification, we release 56 malware samples and their corresponding attack chains as a benchmark. We hope they can be used as a fundamental dataset in future SMS-based malware research.
 
 The following is a brief introduction about the 7 categories and their corresponding attack chains.
 
