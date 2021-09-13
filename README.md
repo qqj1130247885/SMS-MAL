@@ -7,7 +7,7 @@ The following is a brief introduction about the 7 categories and their correspon
 
 ## Message stealer
 
-This category of malware can steal victim’s messages by secretly sending them from the infected device to a remote server.![123](SMS-MAL/image/messageStealer.jpg)
+This category of malware can steal victim’s messages by secretly sending them from the infected device to a remote server.![123](https://github.com/qqj1130247885/SMS-MAL/blob/main/image/messageStealer.jpg)
 
 
 ## Misclick to pay
